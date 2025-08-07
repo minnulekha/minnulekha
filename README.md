@@ -1,7 +1,6 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+minnulekha;Welcome+to+my+Profile!)
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=minnulekha&utm_content=farm">
-      <img src="https://render.gitanimals.org/farms/minnulekha" width="600" height="300"/></a>
+
 <!--
 **minnulekha/minnulekha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
