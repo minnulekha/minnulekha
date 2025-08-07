@@ -1,4 +1,4 @@
-##![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+minnulekha;Welcome+to+my+Profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Hello+World!;I'm+minnulekha;Welcome+to+my+Profile!)
 
 <!--
 **minnulekha/minnulekha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
